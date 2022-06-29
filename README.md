@@ -2,7 +2,7 @@
 [![Builds](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ---
-# Description
+# Description   
 
 It's a sample Dockerfile. Also, it's creating a small size container that includes nodejs with a sample hello world. Maybe it's helpful for beginners.
 
